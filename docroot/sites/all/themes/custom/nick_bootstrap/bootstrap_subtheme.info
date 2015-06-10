@@ -1,4 +1,4 @@
-name = nick_boostrap
+name = nick_bootstrap
 description = A Bootstrap Sub-theme.
 core = 7.x
 base theme = bootstrap
